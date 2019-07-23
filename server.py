@@ -52,6 +52,5 @@ while True:
     break
 print("-" * 20)
 print("Shutting down...")
-server.close()
 os.remove("/tmp/python_unix_sockets_example")
 print("Done")
