@@ -20,7 +20,7 @@ while True:
         print(datagram.decode('utf-8'))
         if "DONE" == datagram.decode('utf-8'):
             break
-time.sleep(3)
+time.sleep(1)
 server.connect("/tmp/python_unix_sockets_example")
 while True:
     try:
