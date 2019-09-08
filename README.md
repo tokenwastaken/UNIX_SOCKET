@@ -1,4 +1,4 @@
-# UNIX_SOCKET
+# UNIX SOCKET PROGRAM FOR SENDING MESSAGE
 
 This is a UNIX Socket application which lets the server socket and client socket under the same host message each other.
 
